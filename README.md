@@ -19,12 +19,12 @@ http://intmontessoriassoc.com/
 
 ### Home Page: ###
 
-![alt tag](https://cloud.githubusercontent.com/assets/21244627/21093345/1ae08dce-c073-11e6-9658-d0a11bfd1d28.png)
+![alt tag](https://cloud.githubusercontent.com/assets/21244627/21260202/b31cb4ce-c3a6-11e6-87de-f106780b1362.png)
 
 ### About Us Page: ###
 
-![alt tag](https://cloud.githubusercontent.com/assets/21244627/21093347/1ae5c28a-c073-11e6-961c-7c7e29a90cda.png)
+![alt tag](https://cloud.githubusercontent.com/assets/21244627/21260204/b465e9e0-c3a6-11e6-89f0-28a2adc4c5ad.png)
 
 ### Admissions Page ###
 
-![alt tag](https://cloud.githubusercontent.com/assets/21244627/21093346/1ae3c70a-c073-11e6-8012-581aa7781455.png)
+![alt tag](https://cloud.githubusercontent.com/assets/21244627/21260208/b6286582-c3a6-11e6-9e9c-58017919cc61.png)
