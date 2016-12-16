@@ -1,5 +1,5 @@
-# International Montessori Association
-'International Montessori Association' is an association of montessories across the globe.
+# International Montessori Associates
+'International Montessori Associates' is an association of montessories across the globe.
 
 
 ## WEBSITE LINK ##
