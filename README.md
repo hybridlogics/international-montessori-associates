@@ -2,11 +2,6 @@
 'International Montessori Associates' is an association of montessories across the globe.
 
 
-## WEBSITE LINK ##
-
-http://intmontessoriassoc.com/
-
-
 ## TECHNOLOGIES ##
 
 - HTML 5
